@@ -1,4 +1,4 @@
-# BotWhatsapp
+#index.js
 
 ======== Instal Bahan========
 apt update && apt upgrade
