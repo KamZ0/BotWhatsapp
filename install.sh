@@ -1,6 +1,5 @@
 #install.sh
 
-======== Instal Bahan========
 apt update && apt upgrade
 pkg install wget 
 pkg install ffmpeg
