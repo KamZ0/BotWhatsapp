@@ -1,4 +1,4 @@
-#index.js
+#install.sh
 
 ======== Instal Bahan========
 apt update && apt upgrade
